@@ -1,4 +1,5 @@
 # Map
+This is the project code repository for the paper "Can LLMs Learn to Map the World from Local Descriptions?"
 
 ### Perception
 #### Data Construction
